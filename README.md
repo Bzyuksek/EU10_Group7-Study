@@ -1,5 +1,5 @@
 # EU10_Group7-Study
-Group Study
+
 ![Bekir Yuksek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzyuksek&show_icons=true&theme=radical)
 
 # Cydeo-BootCamp
