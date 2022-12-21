@@ -4,7 +4,8 @@
 
 # Cydeo-BootCamp
 
-Do more than you ever thought possible. Start the journey to your **high paying IT job**.
+Do more than you ever thought possible. 
+Start the journey to your **high paying IT job**.
 
 [CYDEO School : Discover Your Potential](https://cydeo.com)
 
